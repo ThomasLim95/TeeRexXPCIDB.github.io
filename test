@@ -1,0 +1,14 @@
+<div id="title-div" class="title-background" onclick="" style="background-image: url(&quot;images/webpage_webp/backgrounds/Miyako.webp&quot;);">
+    <div id="title-text-div">
+        <h1 class="title main_title">
+            <translate text="system.title">
+                Princess Connect! Re:Dive
+            </translate>
+        </h1>
+        <h2 id="sub-title" class="title sub_title">
+            <translate text="system.subtitle">
+                Quest Helper
+            </translate>
+        </h2>
+    </div>
+</div>
